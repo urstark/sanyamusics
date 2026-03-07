@@ -22,7 +22,7 @@ MODEL = GROQ_MODEL
 MAX_HISTORY_DM = 12
 MAX_HISTORY_GROUP = 12
 MAX_STORAGE_CHATS = 15
-OWNER_LINK = f"tg://user?id={OWNER_ID}" if OWNER_ID else "https://t.me/urstarkz"
+OWNER_LINK = f"tg://user?id={OWNER_ID}" if OWNER_ID else "t.me/CarelessxOwner"
 
 # --- Cute Sticker Packs ---
 STICKER_PACKS = [
@@ -42,14 +42,14 @@ STICKER_PACKS = [
 # --- Loop Prevention Responses ---
 FALLBACK_RESPONSES = [
     "Achha? Phir kya hua? 👀",
-    "Hmm... aur bata? ✨",
+    "Hmm... aur batao? ✨",
     "Okk okk, samajh gayi",
     "Sahi hai yaar (⁠≧⁠▽⁠≦⁠)",
     "Arey waah!",
     "Lol sahi hai 😂",
     "Aur suna, kya scene hai?",
     "Bas bas, main sun rahi hu",
-    "Haan haan, continue kar",
+    "Haan haan, continue karo",
     "Achha theek hai baba",
 ]
 
@@ -337,7 +337,7 @@ Sᴀɴʏᴀ ʜᴀs ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ AI ᴄʜᴀᴛʙᴏᴛ ᴡɪᴛ
 1. **Iɴ Gʀᴏᴜᴘs:**
    - Admins can use `/chatbot` to enable/disable the AI.
    - To talk to her, reply to her messages or mention her (`@SanyaxMusicBot`).
-   - She will also respond to short greetings like 'hi', 'hello', 'sanya', etc.
+   - She will also respond to short greetings like 'hi', 'hello', 'sundari' etc.
 2. **Iɴ PM:**
    - Use `/chatbot` to enable/disable the AI.
    - Just send her a message to talk.
